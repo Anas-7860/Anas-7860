@@ -17,18 +17,29 @@ const anas = {
   currentlyBuilding: "Job portal for local vendors 🚀",
   funFact: "I talk to code more than humans 💻"
 };
-🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/anas-khan-b6722424b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:anaskhan9501499079@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Anas-7860"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://anas-7860.github.io/Portfolio-Anas005/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> </p>
-⚒️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,html,css,js,php,bootstrap,tailwind,git,github,vscode,mysql,java,c,python,postman" /> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anas-7860&show_icons=true&theme=radical&hide_border=true" alt="Anas' GitHub Stats"/> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Anas-7860&theme=radical&hide_border=true" alt="Anas' GitHub Streak"/> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-7860&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/> </p>
-🚀 Featured Projects
-🔗 StealthTalk – Real-Time MERN Chat App
+<h2 align="center">🌐 Connect with Me</h2>
 
-🎬 MovieZone – Movie Info App
-
-🌐 Portfolio Website
+<p align="center">
+  <a href="https://github.com/Anas-7860">
+    <img alt="GitHub" src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anas-khan-b6722424b">
+    <img alt="LinkedIn" src="https://img.icons8.com/color/40/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anaskhan9501499079@gmail.com">
+    <img alt="Gmail" src="https://img.icons8.com/color/40/gmail-new.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://anas-7860.github.io/Portfolio-Anas005/">
+    <img alt="Portfolio" src="https://img.icons8.com/ios-filled/40/ffffff/domain.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/anas_khan01/">
+    <img alt="LeetCode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+  </a>
+</p>
 
 ✨ Quote of the Day
 "First, solve the problem. Then, write the code." – John Johnson
