@@ -13,7 +13,7 @@
 const anas = {
   pronouns: "He/Him",
   code: ["JavaScript", "PHP", "C++", "Python", "SQL"],
-  askMeAbout: ["Web Dev", "Spring Boot", "Flutter", "MERN Stack"],
+  askMeAbout: ["Web Dev", "Spring Boot", "MERN Stack"],
   currentlyBuilding: "Job portal for local vendors 🚀",
   funFact: "I talk to code more than humans 💻"
 };
