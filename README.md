@@ -12,9 +12,9 @@
 ```js
 const anas = {
   pronouns: "He/Him",
-  code: ["JavaScript", "PHP", "C++", "Python", "SQL"],
-  askMeAbout: ["Web Dev", "Spring Boot", "MERN Stack"],
-  currentlyBuilding: "Job portal for local vendors 🚀",
+  code: ["JavaScript", "PHP", "C++","SQL"],
+  askMeAbout: ["Web Dev", "MERN Stack"],
+  currentlyBuilding: " Dream Vault and application to share dreams and nightmares 🚀",
   funFact: "I talk to code more than humans 💻"
 };
 ```
