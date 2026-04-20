@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Anas Khan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor;Spring+Boot+%2B+Flutter+Dev;Always+Learning+%F0%9F%92%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor;Always+Learning+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
 ---
